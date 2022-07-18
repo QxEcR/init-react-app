@@ -10,7 +10,7 @@ and more boilerplate code that you do not need write
 
 
 ## installation
-1. clone/download the code
+1. clone/download the repo
 2. copy "init-react" folder to the place you prefer on you machine
 3. go to  init-react/main, and copy the new "full" directory
 4. create a new path environment variable using the full directory you just copied
